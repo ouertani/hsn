@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Create a social network like LinkedIn or Facebook...
 
 = Introduction =
 
@@ -6,8 +6,6 @@ Help Social Network is based on : your friend can help me.
 
 
 = Details =
-
-Create a social network like LinkedIn or Facebook...:
 
   # *An open architecture which can be the core of any Social Network*.
   # *Help social network will be the demo of this core (PetShop like)*.
