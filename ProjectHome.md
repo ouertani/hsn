@@ -1,0 +1,1 @@
+If you have request, or you need a friend to resolve a problem, the friend of your friend can do it for you.

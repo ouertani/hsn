@@ -1,0 +1,30 @@
+# Introduction #
+
+Help Social Network is based on : your friend can help me.
+
+
+# Details #
+
+  1. **An open architecture which can be the core of any Social Network**.
+  1. **Help social network will be the demo of this core (PetShop like)**.
+
+
+
+# Before starting #
+
+  * Google project hosting will be the main area to documentshttp://docs.google.com , discussion http://groups.google.com, subversion http://code.google.com.
+  * English language will be the only used for **documents** and **codes**
+  * No business goal :  License is Apache 2 :)
+
+
+# Area for starting #
+
+  * SCA architecture.
+  * OSGI bundel based.
+  * Spring DM kernel.
+  * Scala language + JAVA 6.
+  * JBI inside SCA communication + Mule.
+  * Maven project tool.
+  * Wicket MVC web framework.
+  * Hudson + sonar will not be used as startup.
+  * Scrum Over the net idea.
